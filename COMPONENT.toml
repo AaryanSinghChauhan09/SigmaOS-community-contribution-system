@@ -3,7 +3,7 @@ name = "SigmaOS-community-contribution-system"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "community-contribution-system component"
+description = "Community Contribution System"
 upstream = []
 
 [contract]
